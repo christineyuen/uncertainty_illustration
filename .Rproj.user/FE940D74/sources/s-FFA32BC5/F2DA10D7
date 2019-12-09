@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575839107552.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F2DA10D7",
+    "lastKnownWriteTime" : 1575895734,
+    "last_content_update" : 1575895733639,
+    "path" : "E:/r/uncertainty_illustration/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "9,37",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

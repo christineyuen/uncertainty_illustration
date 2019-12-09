@@ -1,0 +1,12 @@
+name: uncertainty_illustration
+title: uncertainty_illustration
+username:
+account: christine-yuen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 629124
+bundleId: 2652397
+url: https://christine-yuen.shinyapps.io/uncertainty_illustration/
+when: 1575895427.13619
+asMultiple: FALSE
+asStatic: FALSE
